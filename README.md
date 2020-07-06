@@ -23,15 +23,15 @@ Finish: April 2, 2020.
 - Week 6
   1. Advice for Applying Machine Learning
   2. Machine Learning System Design
-Week 7
+- Week 7
   1. Support Vector Machines
-Week 8
+- Week 8
   1. Unsupervised Learning
   2. Dimensionality Reduction
-Week 9
+- Week 9
   1. Anomaly Detection
   2. Recommender Systems
-Week 10
+- Week 10
   1. Large Scale Machine Learning
-Week 11
+- Week 11
   1. Application Example: Photo OCR
