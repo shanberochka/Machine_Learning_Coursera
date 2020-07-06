@@ -2,7 +2,7 @@
 Coursera Machine Learning exercises(exported from MatLab)
 =========================================================
 Start: February 9, 2020.
-Completion: April 2, 2020.
+Finish: April 2, 2020.
 
 ---
 **TOTAL:**
